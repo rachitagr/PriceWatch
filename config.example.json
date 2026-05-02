@@ -1,0 +1,21 @@
+{
+  "email": {
+    "host": "smtp.gmail.com",
+    "port": 465,
+    "from": "you@gmail.com",
+    "to": "you@gmail.com",
+    "currency": "USD",
+    "default_domain": "US"
+  },
+  "request_delay_seconds": 5,
+  "products": [
+    {
+      "asin": "B08N5WRWNW",
+      "name": "Example product",
+      "domain": "US",
+      "currency": "USD",
+      "drop_amount": 10,
+      "target_price": 199.99
+    }
+  ]
+}
